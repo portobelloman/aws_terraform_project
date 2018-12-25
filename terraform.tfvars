@@ -1,0 +1,6 @@
+aws_access_key = "hackbackstuxnetyoubitches"
+aws_secret_key = "nowyouareallfuckedyouareallinfectedyouidiots"
+aws_key_path = "~/.ssh/fuck.pem"
+aws_key_name = "fuck"
+aws_region = "us-east-1"
+network = "10.10"
